@@ -7,7 +7,7 @@ INTERN ID: CT08WGN
 
 DOMAIN: Python Programming
 
-BATCH DURATION: February 25th, 2025 to March 25st, 2025
+BATCH DURATION: February 25th, 2025 to March 25th, 2025
 
 MENTOR NAME: NEELA SANTHOSH
 
