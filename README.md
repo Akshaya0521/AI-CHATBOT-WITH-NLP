@@ -11,7 +11,7 @@ BATCH DURATION: February 25th, 2025 to March 25st, 2025
 
 MENTOR NAME: NEELA SANTHOSH
 
-Description
+**Description**
 An AI chatbot with Natural Language Processing (NLP) is a system that can understand, interpret, and generate human language. Using NLP techniques like tokenization, sentiment analysis, and named entity recognition, it processes user input and responds accordingly. Such chatbots can handle a variety of tasks, from simple queries to complex conversations, by analyzing and understanding context, intent, and meaning in the text. They are widely used in customer support, virtual assistants, e-commerce, and more, offering interactive, personalized, and efficient communication.
 
 Imports and Setup:
@@ -26,4 +26,5 @@ A Chat instance is created using the pairs and reflections (which helps map pron
 Chat Function:
 The chat() function starts an interactive conversation loop, where the bot responds to user input. The conversation continues until the user types "quit", "exit", or "bye".
 
-Output of the Task
+**Output of the Task**
+![Image](https://github.com/user-attachments/assets/e223f54e-97dc-41e1-b675-094b8bcea227)
